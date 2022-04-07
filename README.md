@@ -1,2 +1,2 @@
-# SpeechAndNoiseVisualization
-To get inspiration of speech and noise
+# AudioAnalysis
+Main target: visualize features of speech and noise 
